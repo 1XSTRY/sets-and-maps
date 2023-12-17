@@ -39,7 +39,7 @@ public class Main {
 
         Set<String> uniqueWords = new HashSet<>();
 
-        for (String word : words) {
+        for (String word : words ) {
             uniqueWords.add(word);
         }
 
